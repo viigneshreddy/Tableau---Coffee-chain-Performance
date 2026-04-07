@@ -1,2 +1,2 @@
 # Tableau---Coffee-chain-Performance
-Coffee chain Preformance analysis tableau dashboard
+Coffee Chain Performance Analysis is a Tableau dashboard that tracks sales, profit, and quantity sold across products, states, and markets to evaluate overall business performance. It enables stakeholders to quickly identify top- and bottom-performing regions and product categories, compare trends over time, and uncover opportunities to increase profitability for the coffee chain.
